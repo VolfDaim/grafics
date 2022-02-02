@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Построение графиков</string>
+    <string name="two">y=k*x<sup>2</sup>+b*x+c</string>
+    <string name="three">y=k*x<sup>3</sup>+b</string>
+    <string name="four">y=k*x<sup>1/2</sup></string>
+</resources>
